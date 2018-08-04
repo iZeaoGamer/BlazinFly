@@ -10,4 +10,4 @@ commands:
 permissions:
   fly.command:
     description: "BlazinFly command permission"
-    default: op
+    default: false
