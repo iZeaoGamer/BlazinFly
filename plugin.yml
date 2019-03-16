@@ -5,9 +5,9 @@ version: 1.8.6
 api: 3.0.0
 author: iiFlamiinBlaze
 commands:
-  fly:
+  plotsfly:
     description: "Command which allows flight when in Survival Mode!"
 permissions:
   fly.command:
     description: "BlazinFly command permission"
-    default: op
+    default: true
