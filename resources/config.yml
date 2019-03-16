@@ -29,9 +29,9 @@ fly-enabled: "§aFlight mode activated"
 fly-disabled: "§cFlight mode deactivated"
 
 # The below config enables multi-world settings (OPTIONS: on and off)
-multi-world: "off"
+multi-world: "on"
 
 # The below configs are the worlds the fly will work in
 worlds:
- - "world"
+ - "plots3"
 ...
