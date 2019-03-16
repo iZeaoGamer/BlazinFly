@@ -17,10 +17,10 @@
 #       - "world"
 
 # The below config allows the plugin to reset flight mode when joining the server
-onJoin-FlyReset: true
+onJoin-FlyReset: false
 
 # The below config allows the plugin to reset flight mode when pvping in the server
-onDamage-FlyReset: true
+onDamage-FlyReset: false
 
 # The below config allows you to send a message to the player when they enable fly
 fly-enabled: "§aFlight mode activated"
